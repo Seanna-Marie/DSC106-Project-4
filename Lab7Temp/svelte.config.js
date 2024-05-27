@@ -16,7 +16,7 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? '' : '/DSC106-Project3/'
+			base: process.argv.includes('dev') ? '' : '/Melfaki2024/Project-4'
 		}
 	}
 };
